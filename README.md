@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumar2401-web
+- 👋 Hi, I’m @kumar-web-dev
 - 👀 I’m interested in full stack.
 - 🌱 I’m currently learning full stack.
 - 💞️ "I’m looking to collaborate on initiatives that drive positive results and improvements."
